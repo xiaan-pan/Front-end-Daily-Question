@@ -13,6 +13,7 @@
 3. [script 标签中 defer 和 async 的区别？](/html/day3/README.md)
 4. [DOCTYPE 的作用是什么？](/html/day4/README.md)
 5. [iframe 有哪些缺点？](/html/day5/README.md)
+6. [Canvas 和 SVG 有什么区别？](/html/day8/README.md)
 
 ## 浏览器
 1. [说说你对以下几个页面生命周期事件的理解：DOMContentLoaded、load、beforeunload、unload](/浏览器/day7/README.MD)
