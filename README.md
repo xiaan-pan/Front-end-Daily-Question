@@ -11,3 +11,4 @@
 1. [src 和 href 的区别？](/html/day1/README.md)
 2. [HTML 语义化？](/html/day2/README.md)
 3. [script 标签中 defer 和 async 的区别？](/html/day3/README.md)
+4. [DOCTYPE 的作用是什么？](/html/day4/README.md)
