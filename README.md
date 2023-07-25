@@ -14,3 +14,5 @@
 4. [DOCTYPE 的作用是什么？](/html/day4/README.md)
 5. [iframe 有哪些缺点？](/html/day5/README.md)
 
+## 其它
+1. [什么是渐进增强和优雅降级？](/其它/day6/README.md)
